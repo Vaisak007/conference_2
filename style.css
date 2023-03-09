@@ -186,6 +186,17 @@ font-weight: bold
   font-style: italic;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
+#About ul{
+  text-align: center;
+  list-style-position: inside;
+  font-weight: 500;
+  font-size: large;
+  font-style: italic;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#About li:hover{
+  background-color: unset;
+ }
 #head{
   text-align: center;
 
